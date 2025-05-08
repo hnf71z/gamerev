@@ -12,27 +12,39 @@ EditorBuildSettings:
     path: Assets/Scenes/menugame.unity
     guid: 5b909623555db47ffb283463b6e4fbca
   - enabled: 1
-    path: Assets/Scenes/hockeygame.unity
+    path: Assets/Scenes/game2/hockeygame.unity
     guid: 4067531a1e10b4b14ace62d2e4218522
-  - enabled: 0
-    path: Assets/Scenes/pengenalanobjek.unity
-    guid: 5d4244fdb23727d43938d0e2b14eea49
   - enabled: 1
-    path: Assets/Scenes/hockeyAI.unity
+    path: Assets/Scenes/game2/hockeyAI.unity
     guid: 536b6d3995aa14db4b10ddbb0d8fbea3
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
+    path: Assets/Scenes/game2/menuhockey.unity
     guid: c1e01757c1b534cb081e464c12559323
   - enabled: 1
-    path: Assets/Scenes/gameover.unity
+    path: Assets/Scenes/game2/gameover.unity
     guid: 55bc08e1256b34eb3b55628af79812d8
   - enabled: 1
-    path: Assets/Scenes/Home.unity
-    guid: 08dacde72b77c4bc9b62eb84306c7d68
+    path: Assets/Scenes/game1/Home.unity
+    guid: e321b5467e7a5094b82f3a1853723e56
   - enabled: 1
-    path: Assets/Scenes/Gameplay.unity
-    guid: 82d844d1f914c47aab5ad4abab941690
+    path: Assets/Scenes/game1/Exit.unity
+    guid: 72f4b98d33ac8244d86ede9d2b8a04e5
   - enabled: 1
-    path: Assets/Scenes/Exit.unity
-    guid: cbe479bd7036245e788d82841334b0cd
+    path: Assets/Scenes/game1/Gameplay.unity
+    guid: 368a0518bc71f4fd6b20612318f2edd7
+  - enabled: 1
+    path: Assets/Scenes/game1/Bermain4.unity
+    guid: a98311d7bd121844daf649ebd7e0f44b
+  - enabled: 1
+    path: Assets/Scenes/game1/Bermain3.unity
+    guid: c4afeccbafda57b46a6cf72149069ac1
+  - enabled: 1
+    path: Assets/Scenes/game1/Bermain2.unity
+    guid: cbc78da6555ccbc42ab2f453e2ae4744
+  - enabled: 1
+    path: Assets/Scenes/game1/Bermain1.unity
+    guid: 89a8e97545ca48c4989721c1eb1a27ca
+  - enabled: 1
+    path: Assets/Scenes/game1/Menu.unity
+    guid: 8452268ade1b8e34eba0be97b238a1ba
   m_configObjects: {}
