@@ -1035,7 +1035,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 574253476}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 477560909522dbb4bb13acfe22ce1cb1, type: 3}
+  m_Script: {fileID: 11500000, guid: 41fcf06eb3e25440cbfb7b9d9421145d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &616268595
@@ -1050,6 +1050,7 @@ GameObject:
   - component: {fileID: 616268599}
   - component: {fileID: 616268598}
   - component: {fileID: 616268597}
+  - component: {fileID: 616268600}
   m_Layer: 5
   m_Name: BtnUlangi
   m_TagString: Untagged
@@ -1171,6 +1172,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 616268595}
   m_CullTransparentMesh: 1
+--- !u!114 &616268600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 616268595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac196d1f719f44dea28504675728757, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &638328287
 GameObject:
   m_ObjectHideFlags: 0

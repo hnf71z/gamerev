@@ -67,18 +67,21 @@
     <Compile Include="Assets/Scripts/Script 1/ScoreManager.cs" />
     <Compile Include="Assets/Scripts/Script 1/KelolaScene.cs" />
     <Compile Include="Assets/changetransport.cs" />
+    <Compile Include="Assets/Scripts/Scipt Hockey/BallController1.cs" />
     <Compile Include="Assets/Scripts/Scipt Hockey/BallController.cs" />
     <Compile Include="Assets/Scripts/menugame.cs" />
     <Compile Include="Assets/scri.cs" />
+    <Compile Include="Assets/backtomainmenu.cs" />
     <Compile Include="Assets/Scripts/Scipt Audio/Audio.cs" />
     <Compile Include="Assets/Scripts/Script 1/DragHandler.cs" />
+    <Compile Include="Assets/Scripts/Script 1/obj_drag.cs" />
     <Compile Include="Assets/Scripts/Scipt Hockey/PaddleController.cs" />
     <Compile Include="Assets/Scripts/Script 1/SceneLoader.cs" />
     <Compile Include="Assets/Scripts/Scipt Hockey/PaddleAi.cs" />
     <Compile Include="Assets/Scripts/Menu.cs" />
+    <Compile Include="Assets/BtnUlangi.cs" />
     <Compile Include="Assets/Scripts/Scipt Hockey/TimerManager.cs" />
     <Compile Include="Assets/Scripts/Script 1/DropZoneHandler.cs" />
-    <Compile Include="Assets/Scripts/obj_drag.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
