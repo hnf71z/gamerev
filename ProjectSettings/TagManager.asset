@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bola
+  - Pelukis
+  - Dokter
+  - drop
+  - Koki
+  - Pilot
   layers:
   - Default
   - TransparentFX
