@@ -247,8 +247,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EnterScene: Home
-  EscapeScene: 
-  isEscapeForQuit: 1
+  EscapeScene: mainmenu
+  isEscapeForQuit: 0
 --- !u!212 &897754430
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -424,8 +424,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EnterScene: Home
-  EscapeScene: 
-  isEscapeForQuit: 1
+  EscapeScene: mainmenu
+  isEscapeForQuit: 0
 --- !u!82 &1933176454
 AudioSource:
   m_ObjectHideFlags: 0
