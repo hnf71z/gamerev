@@ -64,7 +64,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/Script 1/GerakProfesi.cs" />
+    <Compile Include="Assets/Game 3 Pengelompokkan Profesi/Assets/Scripts/GameOver.cs" />
     <Compile Include="Assets/Scripts/Script 1/ScoreManager.cs" />
+    <Compile Include="Assets/Game 3 Pengelompokkan Profesi/Assets/Scripts/Data.cs" />
     <Compile Include="Assets/Scripts/Script 1/KelolaScene.cs" />
     <Compile Include="Assets/changetransport.cs" />
     <Compile Include="Assets/Scripts/Scipt Hockey/BallController1.cs" />
@@ -73,23 +75,36 @@
     <Compile Include="Assets/Scripts/Script 1/DropTarget.cs" />
     <Compile Include="Assets/scri.cs" />
     <Compile Include="Assets/backtomainmenu.cs" />
+    <Compile Include="Assets/Game 3 Pengelompokkan Profesi/Assets/Scripts/BatasAkhirAlat.cs" />
     <Compile Include="Assets/Scripts/Scipt Audio/Audio.cs" />
     <Compile Include="Assets/Scripts/Script 1/obj_drag.cs" />
     <Compile Include="Assets/Scripts/Scipt Hockey/PaddleController.cs" />
     <Compile Include="Assets/Scripts/Script 1/SceneLoader.cs" />
     <Compile Include="Assets/Scripts/Scipt Hockey/PaddleAi.cs" />
     <Compile Include="Assets/Scripts/Script 1/DragDrop.cs" />
+    <Compile Include="Assets/Game 3 Pengelompokkan Profesi/Assets/Scripts/GerakPindah.cs" />
     <Compile Include="Assets/Scripts/Menu.cs" />
     <Compile Include="Assets/BtnUlangi.cs" />
+    <Compile Include="Assets/Game 3 Pengelompokkan Profesi/Assets/Scripts/DeteksiAlat.cs" />
+    <Compile Include="Assets/Game 3 Pengelompokkan Profesi/Assets/Scripts/Keluar.cs" />
     <Compile Include="Assets/Scripts/Scipt Hockey/TimerManager.cs" />
+    <Compile Include="Assets/Game 3 Pengelompokkan Profesi/Assets/Scripts/MunculBenda.cs" />
     <Compile Include="Assets/Scripts/Scipt Hockey/SceneChanger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
     <None Include="Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
@@ -98,13 +113,27 @@
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMPro.cginc" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
     <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" />
     <None Include="Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/ProjectSettings/ProjectVersion.txt" />
+    <None Include="Assets/Game 3 Pengelompokkan Profesi/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>

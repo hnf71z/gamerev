@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 12632
+  controlID: 276
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 12633
+  controlID: 277
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -394,9 +394,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: fe5f0000
       m_LastClickedID: 0
-      m_ExpandedIDs: d6f0fdff84f1fdff5ef3fdffa20ffeff6811feff5612feffea16feffd817feff6e20feff3e33feff1c34feffc234feff6835feff0e36feffb436feffe449feffc24afeff7663feff5c83feff0284feffb084feff4e85feff889dfeff2c94000038940000fe9400000a950000949d00009e9d0000649e0000709e0000a0a50000aaa5000070a600007ca6000094ae0000a0ae0000f4ce00002ecf000038cf00002ed2000044d20000d4d70000ead700004cd8000062d80000
+      m_ExpandedIDs: 58f8ffffe6f8ffff4af9ffffeef9ffff00fbffff6e5f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -789,9 +789,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 357.39447, y: 238.68915, z: 471.5057}
+    m_Target: {x: 357.4589, y: 238.71414, z: 471.42377}
     speed: 2
-    m_Value: {x: 357.39447, y: 238.68915, z: 471.5057}
+    m_Value: {x: 357.4589, y: 238.71414, z: 471.42377}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -841,9 +841,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 0.052128855
+    m_Target: 0.055762585
     speed: 2
-    m_Value: 0.052128855
+    m_Value: 0.055762585
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -913,7 +913,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/game1
+    - Assets/Scenes/game3
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -921,16 +921,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 50
   m_LastFolders:
-  - Assets/Scenes/game1
+  - Assets/Scenes/game3
   m_LastFoldersGridSize: 50
   m_LastProjectPath: /Users/nifz71_/Pemrograman Game/mymenu
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 107}
-    m_SelectedIDs: e2410000
-    m_LastClickedID: 16866
-    m_ExpandedIDs: 000000006641000030750000
+    scrollPos: {x: 0, y: 75}
+    m_SelectedIDs: fe5f0000
+    m_LastClickedID: 24574
+    m_ExpandedIDs: 00000000b45b0000e65b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -958,7 +958,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000030750000
+    m_ExpandedIDs: 00000000b45b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -985,7 +985,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000e85a0000866a0000166b0000c67200002c650000905d0000fc5b000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
